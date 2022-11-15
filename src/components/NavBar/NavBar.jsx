@@ -3,14 +3,16 @@ import styles from './NavBar.module.css'
 
 function NavBar() {
   return (
-      <nav className={styles.container}>
-          <NavLink to='/'>Leon Chu</NavLink>
-          <ul>
-            <li><NavLink to='about'>About</NavLink></li>
-            <li><NavLink to='resume'>Resume</NavLink></li>
-            <li><NavLink to='projects'>Projects</NavLink></li>
-            <li><NavLink to='contact'>Contact</NavLink> </li> 
-          </ul>     
+      <nav>
+        <NavLink to='/' className={styles.home}>
+          <img src="/images/home.png" alt="home-logo" />
+        </NavLink>
+          <div className={styles.container}>
+            <NavLink to='about'>ABOUT</NavLink>
+            <NavLink to='resume'>RESUME</NavLink>
+            <NavLink to='projects'>PROJECTS</NavLink>
+            <NavLink to='contact'>CONTACT</NavLink>
+          </div>  
       </nav>
   )
 }

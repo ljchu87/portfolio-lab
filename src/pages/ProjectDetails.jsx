@@ -14,10 +14,10 @@ const ProjectDetails = () => {
         <img src={project.image} alt={project.title} />
         <p>{project.description}</p>
         <a href={project.githubLink} rel="noreferrer" target="_blank">
-          <button>GitHub Repo</button>
+          <button type="button" class="btn btn-outline-secondary">GitHub Repo</button>
         </a>
         <a href={project.deployedLink}>
-          <button>Deployed Website</button>
+          <button type="button" class="btn btn-outline-secondary">Deployed Website</button>
         </a>
       </div>
     </div>

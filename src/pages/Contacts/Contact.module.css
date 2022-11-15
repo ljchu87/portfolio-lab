@@ -1,0 +1,12 @@
+.contacts > a {
+  text-decoration: none;
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: gray;
+}
