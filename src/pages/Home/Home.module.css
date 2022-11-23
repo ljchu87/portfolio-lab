@@ -20,4 +20,10 @@ h1 {
 
 h2 {
   color: white;
+  font-size: 35px;
+}
+
+.app {
+  color: white;
+  font-size: 30px;
 }
