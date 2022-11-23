@@ -4,10 +4,11 @@ const Home = () => {
   return (
     <>
     <div className={styles.home}>
+      <div className={styles.hero}>
+        <h2>Hi there! My name is</h2>
         <h1>Leon Chu</h1>
-        <h2>Full-stack Software Engineer</h2>
-        <img src="images/Leon.jpg" alt="Leon" />
       </div>
+    </div>
     </>
   )
 }

@@ -3,10 +3,12 @@ nav {
   height: 70px;
   display: flex;
   align-items: center;
-  background: #be573d;
-  justify-content: space-between;
+  background: #202021;
+  justify-content: center;
   color: black;
   padding: 0 15px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
 }
 
 .home > img {
@@ -19,12 +21,12 @@ nav {
 }
 
 .container > a {
-  margin: 0 10px;
+  margin: 0 15px;
   text-decoration: none;
   color: white;
 }
 
 .container > a:hover {
-  border-radius: 40%;
+  background-color: white;
   color: gray;
 }

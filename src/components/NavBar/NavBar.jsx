@@ -4,10 +4,8 @@ import styles from './NavBar.module.css'
 function NavBar() {
   return (
       <nav>
-        <NavLink to='/' className={styles.home}>
-          <img src="/images/home.png" alt="home-logo" />
-        </NavLink>
           <div className={styles.container}>
+            <NavLink to='/'>HOME</NavLink>
             <NavLink to='about'>ABOUT</NavLink>
             <NavLink to='resume'>RESUME</NavLink>
             <NavLink to='projects'>PROJECTS</NavLink>
