@@ -12,6 +12,12 @@
 
 h1 {
   font-family: 'Playfair Display', serif;
-  font-size: 150px;
-  margin: 0px;
+  font-size: 175px;
+  border: solid;
+  border-color: white;
+  padding: 0 15px 0 15px;
+}
+
+h2 {
+  color: white;
 }
