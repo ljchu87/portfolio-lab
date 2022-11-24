@@ -3,7 +3,7 @@ import NavBar from './components/NavBar/NavBar'
 import Home from './pages/Home/Home'
 import About from './pages/About/About'
 import Contact from './pages/Contacts/Contact'
-import Resume from './pages/Resume'
+import Resume from './pages/Resume/Resume'
 import Projects from './pages/Projects'
 import ProjectDetails from './pages/ProjectDetails'
 import './App.css';
