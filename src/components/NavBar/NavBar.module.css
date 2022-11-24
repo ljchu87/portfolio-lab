@@ -3,12 +3,12 @@ nav {
   height: 70px;
   display: flex;
   align-items: center;
-  background: #202021;
+  background: black;
   justify-content: center;
   color: black;
   padding: 0 15px;
   font-family: 'Montserrat', sans-serif;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .home > img {
@@ -27,6 +27,5 @@ nav {
 }
 
 .container > a:hover {
-  background-color: white;
-  color: gray;
+  color: #0da5f1;
 }

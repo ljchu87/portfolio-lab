@@ -3,7 +3,10 @@ body {
   font-family: 'Montserrat', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #202021;
+  /* background-color: #202021; */
+  background-image: url("/public/images/bg2.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
   color: #0da5f1;
 }
 

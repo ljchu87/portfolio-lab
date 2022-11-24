@@ -9,16 +9,25 @@ const Home = () => {
         <h2>Hi there! My name is</h2>
         <h1>Leon Chu</h1>
         <div className={styles.app}>
-          <TypeWriter 
+        <TypeWriter 
             onInit={(typewriter) => {
               typewriter
-                .typeString("I'm a software engineer.")
+                .typeString("I'm a software engineer 💻")
                 .pauseFor(500)
                 .deleteAll()
-                .typeString("I'm a dog dad.")
+                .typeString("A problem solver 💡")
                 .pauseFor(500)
                 .deleteAll()
-                .typeString("I'm a fitness enthusiast.")
+                .typeString("A creator 💭")
+                .pauseFor(500)
+                .deleteAll()
+                .typeString("A dog dad 🐶")
+                .pauseFor(500)
+                .deleteAll()
+                .typeString("A fitness enthusiast 💪🏼")
+                .pauseFor(500)
+                .deleteAll()
+                .typeString("A plant dad 🪴")
                 .pauseFor(500)
                 .deleteAll()
                 .start()

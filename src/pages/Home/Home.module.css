@@ -15,6 +15,7 @@ h1 {
   font-size: 175px;
   border: solid;
   border-color: white;
+  border-radius: 8px;
   padding: 0 15px 0 15px;
 }
 
