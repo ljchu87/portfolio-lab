@@ -3,7 +3,7 @@ import styles from './Contact.module.css'
 const Contact = () => {
   return (
     <>
-      <h1>Contact</h1>
+      <h1 className={styles.contactHeader}>Contact</h1>
       <p>Reach out if you'd like to work with me!</p>
       <div className={styles.contacts}>
         <a href="mailto:ljchu87@gmail.com">Email Me!</a>

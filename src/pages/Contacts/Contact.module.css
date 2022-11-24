@@ -1,3 +1,7 @@
+.contactHeader {
+  font-size: 60px;
+}
+
 .contacts > a {
   text-decoration: none;
   margin: 10px;
