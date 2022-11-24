@@ -8,7 +8,7 @@ nav {
   color: black;
   padding: 0 15px;
   font-family: 'Montserrat', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .home > img {
@@ -27,5 +27,7 @@ nav {
 }
 
 .container > a:hover {
-  color: #0da5f1;
+  color: white;
+  text-decoration: underline;
+  text-decoration-thickness: 0.01em;
 }
