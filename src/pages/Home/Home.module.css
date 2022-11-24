@@ -10,7 +10,7 @@
   height: 100vh;
 }
 
-h1 {
+.header2 {
   font-family: 'Playfair Display', serif;
   font-size: 175px;
   border: solid;
@@ -19,7 +19,7 @@ h1 {
   padding: 0 15px 0 15px;
 }
 
-h2 {
+.header1 {
   color: white;
   font-size: 35px;
 }
