@@ -28,11 +28,5 @@
 
 .app {
   color: white;
-  font-size: 30px;
-}
-
-@media only screen and (max-width: 450px) {
-  .header2 {
-    font-size: 75px;
-  }
+  font-size: 35px;
 }

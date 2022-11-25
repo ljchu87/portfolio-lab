@@ -4,8 +4,8 @@ import Home from './pages/Home/Home'
 import About from './pages/About/About'
 import Contact from './pages/Contacts/Contact'
 import Resume from './pages/Resume/Resume'
-import Projects from './pages/Projects'
-import ProjectDetails from './pages/ProjectDetails'
+import Projects from './pages/Projects/Projects'
+import ProjectDetails from './pages/ProjectDetails/ProjectDetails'
 import './App.css';
 
 function App() {

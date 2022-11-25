@@ -1,0 +1,29 @@
+.detailsHeader {
+  font-size: 60px;
+}
+
+.detailsContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.projImg {
+  margin: 15px;
+  height: auto;
+  width: 100%;
+  max-width: 55vw;
+}
+
+.projDescription {
+  font-size: 20px;
+  max-width: 50vw;
+  text-align: justify;
+  text-align-last: center;
+  color: white;
+}
+
+.projButtons > a > button {
+  margin: 8px;
+  font-size: 17px;
+}
