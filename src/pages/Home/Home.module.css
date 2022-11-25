@@ -13,10 +13,13 @@
 .header2 {
   font-family: 'Playfair Display', serif;
   font-size: 175px;
-  border: solid;
-  border-color: white;
-  border-radius: 8px;
+  color: #0DA5F1;
   padding: 0 15px 0 15px;
+  border: solid;
+  border-radius: 7px;
+  background-clip: padding-box;
+  border: solid border transparent;
+  border-image: linear-gradient(to right, #d7108e, rgb(134, 16, 194)) 1;
 }
 
 .header1 {
