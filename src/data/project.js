@@ -16,7 +16,7 @@ export const projects = [
   {
     title: 'Werk',
     description: "Werk is an interactive web application designed for job seekers in the tech world. This app offers a variety of features to help job seekers stay organized in one space. Werk was designed using Mongo DB, Express.js, React.js, and Node.js and implements full CRUD with JWT token-based authentication.",
-    image: 'images/werk.png',
+    image: '/images/werk.png',
     githubLink: 'https://github.com/ljchu87/werk-front-end',
     deployedLink: 'https://werk-smarter.netlify.app/'
   }
