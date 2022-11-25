@@ -1,3 +1,7 @@
+.resumeContainer {
+  height: 100vh;
+}
+
 .headerAbout {
   font-size: 60px;
 }

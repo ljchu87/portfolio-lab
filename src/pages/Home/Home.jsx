@@ -1,12 +1,12 @@
 import styles from './Home.module.css'
 import TypeWriter from 'typewriter-effect'
 
-const Home = () => {
+const Home = () => {  
   return (
     <>
     <div className={styles.home}>
       <div className={styles.hero}>
-        <h2 className={styles.header1}>Hi there! My name is</h2>
+        <h2 className={styles.header1}>Hello, my name is</h2>
         <h1 className={styles.header2}>Leon Chu</h1>
         <div className={styles.app}>
         <TypeWriter 
@@ -15,19 +15,19 @@ const Home = () => {
                 .typeString("I'm a software engineer.")
                 .pauseFor(300)
                 .deleteAll()
-                .typeString("A problem solver.")
+                .typeString("I'm a problem solver.")
                 .pauseFor(300)
                 .deleteAll()
-                .typeString("A creator.")
+                .typeString("I'm a creator.")
                 .pauseFor(300)
                 .deleteAll()
-                .typeString("A dog dad.")
+                .typeString("I'm a dog dad.")
                 .pauseFor(300)
                 .deleteAll()
-                .typeString("A fitness enthusiast.")
+                .typeString("I'm a fitness enthusiast.")
                 .pauseFor(300)
                 .deleteAll()
-                .typeString("A plant dad.")
+                .typeString("I'm a plant dad.")
                 .pauseFor(300)
                 .deleteAll()
                 .start()
