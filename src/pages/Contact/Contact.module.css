@@ -2,15 +2,23 @@
   font-size: 60px;
 }
 
-/* .contacts > a {
-  text-decoration: none;
-  margin: 10px;
+.contactSubHeader {
+  margin: 0;
+  color: white;
 }
 
-a {
-  text-decoration: none;
-}
-
-a:hover {
-  color: gray;
-} */
+input::-webkit-input-placeholder {
+  color: black !important;
+  }
+  
+  input:-moz-placeholder {
+  color: black !important;  
+  }
+  
+  input::-moz-placeholder { 
+  color: black !important;  
+  }
+  
+  input:-ms-input-placeholder {  
+  color: black !important;  
+  }

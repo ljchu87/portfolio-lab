@@ -17,6 +17,7 @@ const Contact = () => {
   return (
     <>
       <h1 className={styles.contactHeader}>Contact</h1>
+      <h3 className={styles.contactSubHeader}>Send me an email and let's connect!</h3>
       <div className='container'>
         <form onSubmit={sendEmail}>
           <div className='row pt-5 mx-auto'>
