@@ -18,9 +18,20 @@ const Contact = () => {
     <>
       <h1 className={styles.contactHeader}>Contact</h1>
       <h4 className={styles.contactSubHeader}>Send me an email and let's connect!</h4>
+      <div className={styles.socialContainer}>
+        <a href="https://www.linkedin.com/in/leon-chu/">
+          <img src="/images/icons8-linkedin.svg" alt="LinkedIn Logo" />
+        </a>
+        <a href="https://twitter.com/ljchu">
+          <img src="/images/icons8-twitter.svg" alt="Twitter Logo" />
+        </a>
+        <a href="https://github.com/ljchu87">
+          <img src="/images/icons8-github-squared.svg" alt="GitHub Logo" />
+        </a>
+      </div>
       <div className='container'>
         <form onSubmit={sendEmail}>
-          <div className='row pt-5 mx-auto'>
+          <div className='row pt-2 mx-auto'>
             <div className='col-8 form-group pt-2 mx-auto'>
               <input type="text" className="form-control border-success" placeholder="Name" name="name" />
             </div>

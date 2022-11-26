@@ -8,6 +8,11 @@
   color: white;
 }
 
+.socialContainer > a > img {
+  margin-top: 10px;
+  width: 100px;
+}
+
 input::-webkit-input-placeholder {
   color: black !important;
   }
