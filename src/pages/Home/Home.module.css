@@ -34,7 +34,7 @@
 *{margin:0;padding:0;}
 .wrap{width:100%;}
 .gradientText{
-  font-family: 'Playfair Display', serif;
+  font-family: 'Chivo', sans-serif;
   background: linear-gradient(to right, rgb(59, 6, 215),rgb(236, 4, 163),rgb(4, 50, 234));
   background-size: 200% 200%;
   animation: rainbow 2s ease-in-out infinite;
