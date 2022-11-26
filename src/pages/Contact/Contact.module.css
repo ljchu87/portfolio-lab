@@ -51,8 +51,6 @@
   animation-iteration-count: infinite;
 }
 
-
-
 input::-webkit-input-placeholder {
   color: black !important;
   }

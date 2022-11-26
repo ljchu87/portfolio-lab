@@ -1,5 +1,5 @@
 import { projects } from "../../data/project"
-import ProjectList from "../../components/ProjectList"
+import ProjectList from "../../components/ProjectList/ProjectList"
 import styles from './Projects.module.css'
 
 const Projects = () => {

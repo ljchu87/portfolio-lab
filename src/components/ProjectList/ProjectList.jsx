@@ -1,4 +1,4 @@
-import ProjectPreview from "./ProjectPreview"
+import ProjectPreview from "../ProjectPreview"
 import styles from './ProjectList.module.css'
 
 const ProjectList = ({projects}) => {

@@ -10,17 +10,6 @@
   height: 100vh;
 }
 
-/* .header2 {
-  font-family: 'Playfair Display', serif;
-  font-size: 175px;
-  color: #0DA5F1;
-  padding: 0 15px 0 15px;
-  border: solid;
-  border-radius: 7px;
-  border: solid border transparent;
-  border-image: linear-gradient(to right, #d7108e, rgb(134, 16, 194)) 1;
-} */
-
 .header1 {
   color: white;
   font-size: 35px;
