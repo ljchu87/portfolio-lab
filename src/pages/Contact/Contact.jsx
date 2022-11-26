@@ -22,7 +22,7 @@ const Contact = () => {
         <form onSubmit={sendEmail}>
           <div className='row pt-5 mx-auto'>
             <div className='col-8 form-group pt-2 mx-auto'>
-              <input type="text" className="form-control" placeholder="Name" name="name" />
+              <input type="text" className="form-control border-success" placeholder="Name" name="name" />
             </div>
             <div className='col-8 form-group pt-2 mx-auto'>
               <input type="email" className="form-control" placeholder="E-mail Address" name="email" />

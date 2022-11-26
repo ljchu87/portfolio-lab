@@ -14,5 +14,6 @@
 
 .myPDF {
   width: 50%;
-  height: 1000px;
+  /* height: 1000px; */
+  height: 100vh;
 }
