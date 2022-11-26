@@ -10,7 +10,7 @@
   height: 100vh;
 }
 
-.header2 {
+/* .header2 {
   font-family: 'Playfair Display', serif;
   font-size: 175px;
   color: #0DA5F1;
@@ -19,7 +19,7 @@
   border-radius: 7px;
   border: solid border transparent;
   border-image: linear-gradient(to right, #d7108e, rgb(134, 16, 194)) 1;
-}
+} */
 
 .header1 {
   color: white;
@@ -29,4 +29,34 @@
 .app {
   color: white;
   font-size: 35px;
+}
+
+*{margin:0;padding:0;}
+.wrap{width:100%;}
+.gradientText{
+  font-family: 'Playfair Display', serif;
+  background: linear-gradient(to right, rgb(59, 6, 215),rgb(236, 4, 163),rgb(4, 50, 234));
+  background-size: 200% 200%;
+  animation: rainbow 2s ease-in-out infinite;
+  background-clip: text;
+  -webkit-background-clip:text;
+  color: #0DA5F1;
+  font-size:10rem;
+  padding: 0 15px 0 15px;
+  border: solid;
+  border: solid border transparent;
+  border-image: linear-gradient(to right, #d7108e, rgb(134, 16, 194)) 1;
+  display:block;
+  text-align:center;
+  transition: color .3s ease-in-out;
+  text-transform:uppercase;
+  font-weight:900;
+}
+.gradientText:hover{
+  color:rgba(0,0,0,0);
+}
+@keyframes rainbow { 
+  0%{background-position:left}
+  50%{background-position:right}
+  100%{background-position:left}
 }

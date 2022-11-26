@@ -19,5 +19,12 @@ export const projects = [
     image: '/images/werk.png',
     githubLink: 'https://github.com/ljchu87/werk-front-end',
     deployedLink: 'https://werk-smarter.netlify.app/'
+  },
+  {
+    title: "Leon's Animal Collector",
+    description: "Animal Collector is a fun interactive website that utilizes Python and Django to collect animals and feed them or give them toys to play with. Animal Collector makes use of Django URLs, Views, Templates, Class-based views, and One-to-Many models and ModelForms as well as authentication. ",
+    image: '/images/leons-animal-collector.png',
+    githubLink: 'https://github.com/ljchu87/animal-collector-lab',
+    deployedLink: 'https://leons-animal-collector.herokuapp.com/'
   }
 ]

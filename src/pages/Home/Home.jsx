@@ -7,7 +7,10 @@ const Home = () => {
     <div className={styles.home}>
       <div className={styles.hero}>
         <h2 className={styles.header1}>Hello, my name is</h2>
-        <h1 className={styles.header2}>Leon Chu</h1>
+        {/* <h1 className={styles.header2}>Leon Chu</h1> */}
+        <div className={styles.wrap}>
+          <h1 className={styles.gradientText}>Leon Chu</h1>
+        </div>
         <div className={styles.app}>
         <TypeWriter 
             onInit={(typewriter) => {
