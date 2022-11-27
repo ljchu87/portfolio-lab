@@ -1,7 +1,3 @@
-.home > img {
-  border-radius: 50%;
-}
-
 .home {
   display: flex;
   align-items: center;
@@ -22,8 +18,8 @@
 
 .linearWipe {
   /* border: solid; */
-  border: solid border transparent;
-  border-image: linear-gradient(to right, #d7108e, #f75d04) 1;
+  /* border: solid border transparent;
+  border-image: linear-gradient(to right, #d7108e, #f75d04) 1; */
   padding: 0 15px 0 15px;
   background: linear-gradient(-45deg, #d7108e, #8300fe, #042fef, #f75d04);
 	background-size: 300%;
