@@ -17,4 +17,4 @@
 - Wallpaper: [unsplash.com](unsplash.com)
 - Color Theme: [coolors.co](https://coolors.co/)
 - Icon Hover Effects: [Hover.css](https://ianlunn.github.io/Hover/)
-- [Gradient Hover Effects](https://codepen.io/bsander/pen/pPpbNm)
+- [Gradient Effect](https://orangeable.com/css/text-gradient)

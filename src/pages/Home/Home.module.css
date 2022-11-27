@@ -20,6 +20,8 @@
   font-size: 35px;
 }
 
+
+
 .linearWipe {
   border: solid;
   border: solid border transparent;
@@ -27,8 +29,9 @@
   padding: 0 15px 0 15px;
   background: linear-gradient(-45deg, #d7108e, #8300fe, #042fef, #f75d04);
 	background-size: 300%;
-	font-family: 'Chivo', sans-serif;
-	font-size: 15vw;
+	/* font-family: 'Staatliches', cursive; */
+	font-size: 10vw;
+  font-weight: 900;
 	letter-spacing: -5px;
 	text-transform: uppercase;
 	-webkit-background-clip: text;
