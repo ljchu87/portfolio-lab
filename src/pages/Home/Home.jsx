@@ -7,7 +7,7 @@ const Home = () => {
     <div className={styles.home}>
       <div className={styles.hero}>
         <h2 className={styles.header1}>Hello, my name is</h2>
-        <h1 className={styles.linearWipe}>Leon Chu</h1>
+        <h1 className={styles.linearWipe}>LEON CHU</h1>
         <div className={styles.app}>
         <TypeWriter 
             onInit={(typewriter) => {
