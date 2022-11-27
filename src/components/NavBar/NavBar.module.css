@@ -1,6 +1,6 @@
 ul {
-  width: 100%;
-  height: 70px;
+  width: 100vw;
+  height: 5vh;
   display: flex;
   align-items: center;
   background: black;
@@ -27,12 +27,6 @@ ul {
   color: white;
 }
 
-/* .container > a:hover {
-  color: white;
-  text-decoration: underline;
-  text-decoration-thickness: 0.01em;
-} */
-
 ul{
   margin:0;
   padding:0;
@@ -49,7 +43,6 @@ ul li a{
   display: block;
   position:relative;
   text-decoration:none;
-  /* padding:5px; */
   font-size:14px;
   font-family: 'Montserrat', sans-serif;
   color:#fff;
