@@ -17,7 +17,7 @@ const Contact = () => {
   return (
     <>
     <div className={styles.contactContainer}>
-      <h1 className={styles.contactHeader}>Contact</h1>
+      <h1 className={styles.linearWipe}>Contact</h1>
       <h4 className={styles.contactSubHeader}>Send me an email and let's connect!</h4>
       <div className={styles.socialContainer}>
         <a href="https://www.linkedin.com/in/leon-chu/" target="_blank" rel="noopener noreferrer">
