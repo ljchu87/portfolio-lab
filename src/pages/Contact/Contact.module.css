@@ -1,3 +1,7 @@
+.contactContainer {
+  height: 100vh;
+}
+
 .contactHeader {
   font-size: 60px;
   margin-bottom: 0;

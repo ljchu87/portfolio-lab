@@ -16,7 +16,7 @@ const Contact = () => {
 
   return (
     <>
-    <div></div>
+    <div className={styles.contactContainer}>
       <h1 className={styles.contactHeader}>Contact</h1>
       <h4 className={styles.contactSubHeader}>Send me an email and let's connect!</h4>
       <div className={styles.socialContainer}>
@@ -50,6 +50,7 @@ const Contact = () => {
             </div>
           </div>
         </form>
+      </div>
       </div>
     </>
   )
