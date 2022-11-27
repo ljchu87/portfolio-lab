@@ -8,19 +8,17 @@
 
 .header1 {
   color: white;
-  font-size: 35px;
+  font-size: 4vh;
 }
 
 .app {
   color: white;
-  font-size: 35px;
+  font-size: 4vh;
+  margin: 0;
 }
 
 .linearWipe {
-  /* border: solid; */
-  /* border: solid border transparent;
-  border-image: linear-gradient(to right, #d7108e, #f75d04) 1; */
-  padding: 0 15px 0 15px;
+  margin: 0;
   background: linear-gradient(-45deg, #d7108e, #8300fe, #042fef, #f75d04);
 	background-size: 300%;
 	font-family: 'Staatliches', 'Roboto', sans-serif;
