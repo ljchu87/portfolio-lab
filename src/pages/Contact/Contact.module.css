@@ -71,11 +71,11 @@ input::-webkit-input-placeholder {
   color: black !important;  
   }
 
-
   .linearWipe {
+    margin-bottom: 5px;
     background: linear-gradient(-45deg, #d7108e, #8300fe, #042fef, #f75d04);
     background-size: 300%;
-    font-size: 1vw;
+    font-size: 2vw;
     font-weight: 400;
     text-transform: uppercase;
     -webkit-background-clip: text;
