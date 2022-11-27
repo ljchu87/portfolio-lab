@@ -9,13 +9,13 @@
 .header1 {
   color: white;
   font-size: 4vh;
-  margin-bottom: 0;
+  margin-bottom: -40px;
 }
 
 .app {
   color: white;
   font-size: 4vh;
-  margin-top: 0;
+  margin-top: -30px;
 }
 
 .linearWipe {
