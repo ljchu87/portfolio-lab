@@ -1,11 +1,10 @@
 import styles from './Resume.module.css'
 
-
 const Resume = () => {
   return (
     <>
     <div className={styles.resumeContainer}>
-      <h1 className={styles.headerAbout}>Resume</h1>
+      <h1 className={styles.linearWipe}>Resume</h1>
       <h4 className={styles.headerAbout2}>Checkout my resume below to stay up-to-date with my work!</h4>
       <div className={styles.socialContainer}>
         <a href="https://www.linkedin.com/in/leon-chu/" target="_blank" rel="noopener noreferrer">

@@ -3,7 +3,7 @@ import styles from './About.module.css'
 const About = () => {
   return (
     <>
-      <h1 className={styles.header1}>About</h1>
+      <h1 className={styles.linearWipe}>About</h1>
       <div className={styles.about}>
         <img src="images/Leon.jpg" alt="Leon" className='profile' />
           <div>

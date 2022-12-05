@@ -2,11 +2,6 @@
   height: 100vh;
 }
 
-.headerAbout {
-  font-size: 60px;
-  margin-bottom: 0;
-}
-
 .headerAbout2 {
   color: white;
 }
@@ -73,4 +68,24 @@ input::-webkit-input-placeholder {
   
   input:-ms-input-placeholder {  
   color: black !important;  
+  }
+
+  .linearWipe {
+    margin-bottom: 5px;
+    background: linear-gradient(-45deg, #d7108e, #8300fe, #042fef, #f75d04);
+    background-size: 300%;
+    font-size: 3vw;
+    font-weight: 400;
+    text-transform: uppercase;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: animated_text 2s ease-in-out infinite;
+    -moz-animation: animated_text 5s ease-in-out infinite;
+    -webkit-animation: animated_text 5s ease-in-out infinite;
+  }
+  
+  @keyframes animated_text {
+    0% { background-position: 0px 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0px 50%; }
   }
