@@ -32,17 +32,18 @@ const About = () => {
               Tech Stack:
             </p>
             <p className={styles.techStack}>
-              <img src="/images/icons8-html-5.svg" alt="" />
-              <img src="/images/icons8-javascript-logo.svg" alt="" />
-              <img src="/images/icons8-css3.svg" alt="" />
-              <img src="/images/icons8-python.svg" alt="" />
-              <img src="/images/icons8-react-native.svg" alt="" />
-              <img src="/images/icons8-express-js.svg" alt="" />
-              <img src="/images/icons8-node-js-50.svg" alt="" />
-              <img src="/images/icons8-django.svg" alt="" />
-              <img src="/images/icons8-postgresql.svg" alt="" />
-              <img src="/images/icons8-visual-studio.svg" alt="" />
-              <img src="/images/icons8-docker.svg" alt="" />
+              <img src="/images/icons8-javascript-logo.svg" alt="JavaScript logo" />
+              <img src="/images/icons8-html-5.svg" alt="HTML logo" />
+              <img src="/images/icons8-css3.svg" alt="CSS logo" />
+              <img src="/images/icons8-python.svg" alt="Python logo" />
+              <img src="/images/icons8-react-native.svg" alt="React logo" />
+              <img src="/images/icons8-express-js.svg" alt="Express logo" />
+              <img src="/images/icons8-node-js-50.svg" alt="Node logo" />
+              <img src="/images/icons8-django.svg" alt="Django logo" />
+              <img src="/images/icons8-postgresql.svg" alt="PostgreSQL lgoo" />
+              <img src="/images/icons8-mysql-logo.svg" alt="MySQL logo" />
+              <img src="/images/icons8-visual-studio.svg" alt="VisualStudio logo" />
+              <img src="/images/icons8-docker.svg" alt="Docker logo" />
             </p>
           </div>
         </div>
