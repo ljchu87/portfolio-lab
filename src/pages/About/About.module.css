@@ -108,3 +108,14 @@ h1 {
   50% { background-position: 100% 50%; }
   100% { background-position: 0px 50%; }
 }
+
+.techStackHeader {
+  margin-bottom: 0;
+}
+
+.techStack > img {
+  flex-wrap: wrap;
+  width: 35px;
+  margin: 2px;
+  margin-top: -15px;
+}

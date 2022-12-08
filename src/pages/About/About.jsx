@@ -28,6 +28,22 @@ const About = () => {
             <p>
               I'm particularly interested in growing my skillset in React and expanding on the knowledge I'm continuously learning to this day! Outside of work, I enjoy being a dog dad or hitting the gym. I'm currently seeking opportunities as a full-stack or front-end developer so let's connect and grow together!
             </p>
+            <p className={styles.techStackHeader}>
+              Tech Stack:
+            </p>
+            <p className={styles.techStack}>
+              <img src="/images/icons8-html-5.svg" alt="" />
+              <img src="/images/icons8-javascript-logo.svg" alt="" />
+              <img src="/images/icons8-css3.svg" alt="" />
+              <img src="/images/icons8-python.svg" alt="" />
+              <img src="/images/icons8-react-native.svg" alt="" />
+              <img src="/images/icons8-express-js.svg" alt="" />
+              <img src="/images/icons8-node-js-50.svg" alt="" />
+              <img src="/images/icons8-django.svg" alt="" />
+              <img src="/images/icons8-postgresql.svg" alt="" />
+              <img src="/images/icons8-visual-studio.svg" alt="" />
+              <img src="/images/icons8-docker.svg" alt="" />
+            </p>
           </div>
         </div>
     </>
