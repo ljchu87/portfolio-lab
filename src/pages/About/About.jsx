@@ -32,18 +32,18 @@ const About = () => {
               Tech Stack:
             </p>
             <p className={styles.techStack}>
-              <img src="/images/icons8-javascript-logo.svg" alt="JavaScript logo" />
-              <img src="/images/icons8-html-5.svg" alt="HTML logo" />
-              <img src="/images/icons8-css3.svg" alt="CSS logo" />
-              <img src="/images/icons8-python.svg" alt="Python logo" />
-              <img src="/images/icons8-react-native.svg" alt="React logo" />
-              <img src="/images/icons8-express-js.svg" alt="Express logo" />
-              <img src="/images/icons8-node-js-50.svg" alt="Node logo" />
-              <img src="/images/icons8-django.svg" alt="Django logo" />
-              <img src="/images/icons8-postgresql.svg" alt="PostgreSQL lgoo" />
-              <img src="/images/icons8-mysql-logo.svg" alt="MySQL logo" />
-              <img src="/images/icons8-visual-studio.svg" alt="VisualStudio logo" />
-              <img src="/images/icons8-docker.svg" alt="Docker logo" />
+              <img src="/images/icons8-javascript-logo.svg" alt="JavaScript logo" class={styles.hvrPulse} />
+              <img src="/images/icons8-html-5.svg" alt="HTML logo" class={styles.hvrPulse} />
+              <img src="/images/icons8-css3.svg" alt="CSS logo" class={styles.hvrPulse} />
+              <img src="/images/icons8-python.svg" alt="Python logo" class={styles.hvrPulse} />
+              <img src="/images/icons8-react-native.svg" alt="React logo" class={styles.hvrPulse} />
+              <img src="/images/icons8-express-js.svg" alt="Express logo" class={styles.hvrPulse} />
+              <img src="/images/icons8-node-js-50.svg" alt="Node logo" class={styles.hvrPulse} />
+              <img src="/images/icons8-django.svg" alt="Django logo" class={styles.hvrPulse} />
+              <img src="/images/icons8-postgresql.svg" alt="PostgreSQL lgoo" class={styles.hvrPulse} />
+              <img src="/images/icons8-mysql-logo.svg" alt="MySQL logo" class={styles.hvrPulse} />
+              <img src="/images/icons8-visual-studio.svg" alt="VisualStudio logo" class={styles.hvrPulse} />
+              <img src="/images/icons8-docker.svg" alt="Docker logo" class={styles.hvrPulse} />
             </p>
           </div>
         </div>
