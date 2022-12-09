@@ -36,6 +36,8 @@ const About = () => {
               <img src="/images/icons8-html-5.svg" alt="HTML logo" class={styles.hvrPulse} />
               <img src="/images/icons8-css3.svg" alt="CSS logo" class={styles.hvrPulse} />
               <img src="/images/icons8-python.svg" alt="Python logo" class={styles.hvrPulse} />
+              <img src="/images/icons8-c++.svg" alt="C++ logo" class={styles.hvrPulse} />
+              <img src="/images/icons8-mongodb.png" alt="MongoDB logo" class={styles.hvrPulse} />
               <img src="/images/icons8-react-native.svg" alt="React logo" class={styles.hvrPulse} />
               <img src="/images/icons8-express-js.svg" alt="Express logo" class={styles.hvrPulse} />
               <img src="/images/icons8-node-js-50.svg" alt="Node logo" class={styles.hvrPulse} />
@@ -44,6 +46,7 @@ const About = () => {
               <img src="/images/icons8-mysql-logo.svg" alt="MySQL logo" class={styles.hvrPulse} />
               <img src="/images/icons8-visual-studio.svg" alt="VisualStudio logo" class={styles.hvrPulse} />
               <img src="/images/icons8-docker.svg" alt="Docker logo" class={styles.hvrPulse} />
+              <img src="/images/icons8-github-badge.svg" alt="GitHublogo" class={styles.hvrPulse} />
             </p>
           </div>
         </div>

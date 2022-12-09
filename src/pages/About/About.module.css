@@ -116,6 +116,6 @@ h1 {
 .techStack > img {
   flex-wrap: wrap;
   width: 35px;
-  margin: 2px;
+  margin: 1px;
   margin-top: -15px;
 }
