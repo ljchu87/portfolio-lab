@@ -15,7 +15,7 @@
   text-align: justify;
   font-weight: bold;
   color: white;
-  font-size: 1.2vh;
+  font-size: 1.5vh;
 }
 
 .aboutHeader2 {
@@ -24,7 +24,7 @@
 
 .socialContainer > a > img {
   margin-top: 10px;
-  width: 60px;
+  max-width: 60px;
 }
 
 @-webkit-keyframes hvr-pulse {
