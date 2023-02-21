@@ -20,7 +20,7 @@ const About = () => {
         </a>
       </div>
       <div className={styles.about}>
-        <img src="images/Leon.jpg" alt="Leon" className='profile' />
+        <img src="images/Leon-Pic.jpg" alt="Leon" className='profile' />
           <div>
             <p>
               Hi there! I'm a full-stack software engineer with a backfround in the oil and gas industry working in tech support. I have a huge interest in utilizing MongoDB, Express.js, React.js, and Node.js to build fun and innovative web applications with clean and dry code. I believe in the importance of continually growing and expanding my skills as an engineer, so I enjoy challenging myself to learn new things and understand complex problem-solving concepts.
