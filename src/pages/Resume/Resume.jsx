@@ -17,7 +17,7 @@ const Resume = () => {
           <img src="/images/icons8-mail.svg" alt="Email Logo" class={styles.hvrPulse} />
         </a>
       </div>
-      <iframe className={styles.myPDF} src="Leon-Chu-Resume.pdf" frameborder="0" title="myResume"></iframe>
+      <iframe className={styles.myPDF} src="Leon-Chu_Resume.pdf" frameborder="0" title="myResume"></iframe>
     </div>
     </>
   )
